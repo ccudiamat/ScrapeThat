@@ -1,0 +1,1 @@
+//Have to add the jQuery functionality of saving articles and having the option to keep saved notes to the saved articles and being able to delete notes and the saved article from the page.

@@ -44,6 +44,6 @@ $(document).ready(function () {
     }
 
     function renderEmpty() {
-        
+        //Adding functionality for emptying out articles and scraping new articles
     }
 })
